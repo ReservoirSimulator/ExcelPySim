@@ -16,6 +16,7 @@ It is started with a simple black oil case.
 ![tutor 1](material/tutor1.2019-02-14.gif?raw=True "tutor1 dynamic")
 There are two files, 'tutor1.xlsm' and 'tutor1.py' which process the grid section of black oil case.  By tutorial 1, it is shown that the combination of [XlWings](https://github.com/ZoomerAnalytics/xlwings "XlWings") and Excel can provide a solution to a Excel-based reservoir simulation pre-processing tool.
 ### Tutorial 2
+![tutor 2](material/tutor2.gif?raw=True "tutor2 dynamic")
 Reservoir engineers need to process production data frequently， so the reading and plotting of well production data is put forward to the tutorial 2. The production data format in tutor2.xlsm is just an example, so when you use it, it is need to adjust the Excel format and edit the code according to the actual situation.
 ## Joining us?
 Reservoir simulation technology is important one of reservoir engineering methods and reservoir simulation tool should be one of tools at hand of a reservoir engineer. I hope it is helpful by the open source method to those that want to learn or use reservoir simulation technology and even python or machine learning. Anyone is welcome to participate.  
