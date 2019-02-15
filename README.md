@@ -28,6 +28,7 @@ Reservoir engineers need to process production data frequently， so the reading
 ```python
     df_prod = sheet.range((iRow,2),(iEndRow,7)).options(pd.DataFrame,index=False).value
 ```
+Please visit [pandas tutorial](https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html "Pandas") to learn more.
 ## Joining us?
 Reservoir simulation technology is important one of reservoir engineering methods and reservoir simulation tool should be one of tools at hand of a reservoir engineer. I hope it is helpful by the open source method to those that want to learn or use reservoir simulation technology and even python or machine learning. Anyone is welcome to participate.  
 ### About me
